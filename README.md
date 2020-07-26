@@ -1,2 +1,2 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React app which takes any food item as input and displays various recipes containing the selected item. It makes use of Edmam API to get the required data and also displays an image of the completed dish. 
 
